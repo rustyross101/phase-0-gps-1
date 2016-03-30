@@ -4,7 +4,7 @@
     mkdir codeblock
     cd codeblock
 
-**bold**
+**stillbold**
 *italics*
 [link](www.google.com)
 ![Alt text](C:/Sites/phase-0-gps-1/gps1.1.png)
